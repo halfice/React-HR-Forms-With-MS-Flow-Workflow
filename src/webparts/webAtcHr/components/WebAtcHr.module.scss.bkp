@@ -1,0 +1,288 @@
+@import '~@microsoft/sp-office-ui-fabric-core/dist/sass/SPFabricCore.scss';
+
+.webAtcHr {
+  float: left;
+
+  .FooterGrid{
+    float: left;
+    width:100%;
+    padding: 9px;
+    text-align: right;
+
+  }
+
+  .myinput{
+    text-emphasis: unset;
+  }
+
+  .HeaderGrid{
+    float: left;
+    width:100%;
+    padding: 9px;
+
+  }
+
+.HeaderAllownce{
+  background-image: url('http://under30ceo.com/wp-content/uploads/2010/10/home-office-2-582x379.jpg');
+  background-size: 100%;
+  height: 95px;
+}
+
+.Allowance:hover {
+  background: #53a7ea;
+}
+.Allowance{
+  margin: 9px;
+    max-width: 700px;
+    background: #420005;
+    color: #fff;
+    font: 3.5em sans-serif;
+    text-align: center;
+    transition: background-color 1s ease-in-out;
+    padding: 7px;
+    float: left;
+    box-shadow: 0 2px 4px 0 #666666, 0 25px 50px 0 rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    height: 130px;
+    width: 230px;
+}
+
+  .containerLeave {
+    margin: 9px;
+    max-width: 700px;
+    background: #a80000;
+    color: #fff;
+    font: 3.5em sans-serif;
+    text-align: center;
+    transition: background-color 1s ease-in-out;
+    padding: 7px;
+    float: left;
+    box-shadow: 0 2px 4px 0 #666666, 0 25px 50px 0 rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    height: 130px;
+    width: 230px;
+  }
+  .containerLeave:hover {
+    background: #53a7ea;
+  }
+
+  .pragraph{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:6px;
+    margin-top: 3px;
+  }
+
+  .CloseButton{
+    text-align: right;
+  }
+
+  .MyButton{
+    background-color: #36a9e0;
+    color: white;
+    font-size: 13px;
+    border: none;
+    padding: 5px;
+    float: left;
+    
+  }
+
+  .MainButton{
+    background-color: #36a9e0;
+    color: white;
+    font-size: 13px;
+    border: none;
+    padding: 5px;
+    float: left;
+    margin-right: 10px;
+  }
+
+  .HeaderPassport{
+    background-image: url('https://trott.house.gov/sites/trott.house.gov/files/styles/congress_featured_image/public/featured_image/office_location/Office-Door-1Small.jpg?itok=VkWcZOnr');
+    background-size: 100%;
+    height: 95px;
+  }
+  .HeaderSick{
+    background-image: url('https://www.myledlightingguide.com/images/installations/Office.jpg');
+    background-size: 100%;
+    height: 95px;
+  }
+  .HeaderDivServerP{
+    background-image: url('https://iseazy.com/blog/wp-content/uploads/2018/02/Tipos-de-contenidos-e-learning-que-generan-un-mayor-nivel-de-compromiso.jpg');
+    background-size: 100%;
+    height: 95px;
+  }
+
+  .HeaderDivLeave{
+    background-image: url('https://www.knoll.com/images/main_right.jpg?v=051016');
+    background-size: 100%;
+    height: 95px;    
+
+  } 
+  .HeaderDivServer{
+    background-image: url('http://www.guoguiyan.com/data/out/79/68529846-free-office-wallpapers.jpg');
+    background-size: 100%;
+    height: 95px; 
+  }
+
+  .Passport {
+    margin: 9px;
+    max-width: 700px;
+    background: #f09609;
+    color: #fff;
+    font: 3.5em sans-serif;
+    text-align: center;
+    transition: background-color 1s ease-in-out;
+    padding: 7px;
+    float: left;
+    box-shadow: 0 2px 4px 0 #666666, 0 25px 50px 0 rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    height: 130px;
+    width: 230px;
+  }
+
+  .Passport:hover {
+    background: #53a7ea;
+  }
+
+
+  .Sick {
+    margin: 9px;
+    max-width: 700px;
+    background: #a6a6a6;
+    color: #fff;
+    font: 3.5em sans-serif;
+    text-align: center;
+    transition: background-color 1s ease-in-out;
+    padding: 7px;
+    float: left;
+    box-shadow: 0 2px 4px 0 #666666, 0 25px 50px 0 rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    height: 130px;
+    width: 230px;
+  }
+  .Sick:hover {
+    background: #53a7ea;
+  }
+
+
+  .Server {
+    margin: 9px;
+    max-width: 700px;
+    background: #676470;
+    color: #fff;
+    font: 3.5em sans-serif;
+    text-align: center;
+    transition: background-color 1s ease-in-out;
+    padding: 7px;
+    float: left;
+    box-shadow: 0 2px 4px 0 #666666, 0 25px 50px 0 rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    height: 130px;
+    width: 230px;
+  }
+  .Server:hover {
+    background: #53a7ea;
+  }
+
+  .container {
+    max-width: 700px;
+    margin: 0px auto;
+    box-shadow: 0 2px 4px 0 #337ab7, 0 25px 50px 0 rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    margin:20px;
+    float: left;
+  }
+
+
+
+  .HeaderUsers{
+    background-image: url('http://msofficeuser.com/pages/wp-content/uploads/2011/01/HelpHeader.png');
+    background-size: 100%;
+    height: 95px;
+  }
+  
+  .Users:hover {
+    background: #53a7ea;
+  }
+  .Users{
+    margin: 9px;
+      max-width: 700px;
+      background: #064287;
+      color: #fff;
+      font: 3.5em sans-serif;
+      text-align: center;
+      transition: background-color 1s ease-in-out;
+      padding: 7px;
+      float: left;
+      box-shadow: 0 2px 4px 0 #666666, 0 25px 50px 0 rgba(0, 0, 0, 0.1);
+      cursor: pointer;
+      height: 130px;
+      width: 230px;
+  }
+
+  .row {
+    @include ms-Grid-row;
+    @include ms-fontColor-white;
+    background-color: $ms-color-themeDark;
+    padding: 20px;
+  }
+
+  .column {
+    @include ms-Grid-col;
+    @include ms-lg10;
+    @include ms-xl8;
+    @include ms-xlPush2;
+    @include ms-lgPush1;
+  }
+
+  .title {
+    @include ms-font-xl;
+    @include ms-fontColor-white;
+  }
+
+  .subTitle {
+    @include ms-font-l;
+    @include ms-fontColor-white;
+  }
+
+  .description {
+    @include ms-font-l;
+    @include ms-fontColor-white;
+  }
+
+  .button {
+    // Our button
+    text-decoration: none;
+    height: 32px;
+
+    // Primary Button
+    min-width: 80px;
+    background-color: $ms-color-themePrimary;
+    border-color: $ms-color-themePrimary;
+    color: $ms-color-white;
+
+    // Basic Button
+    outline: transparent;
+    position: relative;
+    font-family: "Segoe UI WestEuropean","Segoe UI",-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: $ms-font-size-m;
+    font-weight: $ms-font-weight-regular;
+    border-width: 0;
+    text-align: center;
+    cursor: pointer;
+    display: inline-block;
+    padding: 0 16px;
+
+    .label {
+      font-weight: $ms-font-weight-semibold;
+      font-size: $ms-font-size-m;
+      height: 32px;
+      line-height: 32px;
+      margin: 0 4px;
+      vertical-align: top;
+      display: inline-block;
+    }
+  }
+}

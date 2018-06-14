@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "web-atc-hr-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/webAtcHr/WebAtcHrWebPart.js",
+          "manifest": "./src/webparts/webAtcHr/WebAtcHrWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "WebAtcHrWebPartStrings": "lib/webparts/webAtcHr/loc/{locale}.js"
+  }
+}

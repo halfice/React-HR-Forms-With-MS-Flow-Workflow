@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "sol-atc-hr",
+    "libraryId": "d1d130c9-926d-4dd0-aa61-de0bc427fb78",
+    "environment": "spo"
+  }
+}

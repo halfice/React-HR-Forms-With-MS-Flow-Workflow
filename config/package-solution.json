@@ -1,0 +1,13 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sol-atc-hr-client-side-solution",
+    "id": "d1d130c9-926d-4dd0-aa61-de0bc427fb78",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/sol-atc-hr.sppkg"
+  }
+}
